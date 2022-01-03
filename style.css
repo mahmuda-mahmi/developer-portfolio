@@ -11,5 +11,20 @@ section{
     display: flex;
 }
 .half-width{
-    width: 50%;
+    width: 40%;
+    padding-left:2%
+}
+.half-width img{
+    width 40%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: indianred;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.top-banner{
+    background-color: url(im/chandler-removebg-preview.png);
 }
