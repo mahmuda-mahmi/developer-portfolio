@@ -4,3 +4,12 @@ body{
 h1{
     font-size: 50px;
 }
+.orange-color{
+    color: indianred;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
