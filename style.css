@@ -61,6 +61,9 @@ h2{
 }
 #full-stack-developer{
     border-left: 7px solid;
-    border-image: linear-gradient(salmon, tomato) 30;
+    border-image: linear-gradient( orange, tomato) 30;
     border-image-slice: 1;
+}
+footer p {
+    text-align: center;
 }
