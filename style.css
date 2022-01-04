@@ -43,6 +43,7 @@ h2{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    
 }
 .developer-experience{
     width: 40%;
@@ -51,4 +52,15 @@ h2{
     padding: 0 50px;
     border-radius: 10px;
     box-shadow: 10px 10px 30px gray;
+   
+}
+#web-dev-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan) 30;
+    border-image-slice: 1;
+}
+#full-stack-developer{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon, tomato) 30;
+    border-image-slice: 1;
 }
